@@ -5,7 +5,7 @@ import App from './App.jsx'
 import Body from './components/Body.jsx';
 import Offer from './components/Offer.jsx';
 import About from './components/About.jsx';
-import SignIn from './components/SignIn.jsx';
+import SignIn from './components/Signin.jsx';
 import Cart from './components/Cart.jsx';
 import Help from "./components/Help.jsx";
 import Error from "./components/Error.jsx";
