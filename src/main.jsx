@@ -29,7 +29,7 @@ const appRouter=createBrowserRouter([
      
       {
         path:'/signin',
-        element: <SignIn />
+        element: <Signin />
       },
       {
         path:'/cart',
