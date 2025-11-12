@@ -8,7 +8,7 @@ import About from './components/About.jsx';
 import Cart from './components/Cart.jsx';
 import Help from "./components/Help.jsx";
 import Error from "./components/Error.jsx";
-import Signin from "./components/SignIn.jsx";
+import Signin from "./components/Signin.jsx";
 // import RestaurantDetails from "./components/RestaurantDetails.jsx";
 
 const appRouter=createBrowserRouter([
